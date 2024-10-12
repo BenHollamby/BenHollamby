@@ -1,6 +1,8 @@
 ## Hello there
 
-testing again for third time
+<!--START_SECTION:badges-->
+
+<!--END_SECTION:badges-->
 
 <!--
 **BenHollamby/BenHollamby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
