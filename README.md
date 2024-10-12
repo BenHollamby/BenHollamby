@@ -1,5 +1,7 @@
 ## Hello there
 
+will there be badges?
+
 <!--START_SECTION:badges-->
 
 <!--END_SECTION:badges-->
