@@ -4,13 +4,13 @@ Wannabe Cloud/Platform/DevOps Engineer with a passion for operations, automation
 
 Developing a taste for programming after seeing what my colleagues at Arkahna are doing, and currently trying to answer the question, I learned this language... now what?
 
-"Official Credentials"
+**"Official Credentials"**
 
 Azure Certs
 
 <div style="display: flex; gap: 10px;">
-<img src="./images/Azure%20Fundamentals%20Badge.png" alt="Azure Fundamentals" width="150" height="150">
-<img src="./images/Azure%20Admin%20Associate%20Badge.png" alt="Azure Administrator Associate" width="150" height="150">
+    <img src="./images/Azure%20Fundamentals%20Badge.png" alt="Azure Fundamentals" width="150" height="150">
+    <img src="./images/Azure%20Admin%20Associate%20Badge.png" alt="Azure Administrator Associate" width="150" height="150">
 </div>
 
 AWS Certs
@@ -48,6 +48,13 @@ AWS Cloud Quest
     <img src="./images/Cloud%20Quest%20Machine%20Learning.png" alt="Machine Learning" width="150" height="150">
     <img src="./images/Financial%20Services%20Badge.png" alt="Industry Quest: Financial Services" width="150" height="150">
 </div>
+
+### Technologies & Scripting Languages
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" alt="PowerShell" width="50" height="50">
+
+### Languages I know?
+
 <!--END_SECTION:badges-->
 
 <!--
