@@ -2,7 +2,7 @@
 
 Wannabe Cloud/Platform/DevOps Engineer with a passion for operations, automation, and security.
 
-Currently a consultant at Arkahna in the Sigil team. The sigil team focuses on operations, pro-active monitoring, and practical security recommendations for clients.
+Currently a consultant for Arkahna in the Sigil team. The sigil team focuses on operations, pro-active monitoring, and practical security recommendations for clients.
 
 Developing a taste for programming after seeing what my colleagues at Arkahna are doing, and currently trying to answer the question, I learned this language... now what?
 
