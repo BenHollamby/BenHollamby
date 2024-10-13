@@ -2,7 +2,9 @@
 
 Wannabe Cloud/Platform/DevOps Engineer with a passion for operations, automation, and security.
 
-Currently developing a taste for programming after seeing what my colleagues at Arkahna are doing.
+Developing a taste for programming after seeing what my colleagues at Arkahna are doing, and currently trying to answer the question, I learned this language... now what?
+
+"Official Credentials"
 
 Azure Certs
 
