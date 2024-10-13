@@ -4,6 +4,8 @@ will there be badges?
 
 <!--START_SECTION:badges-->
 
+<img src="./images/AWS%20Cloud%20Practitioner%20Badge.png" alt="AWS Cloud Practitioner" width="150" height="150">
+
 ![AWS Cloud Practicioner](./images/AWS%20Cloud%20Practitioner%20Badge.png)
 
 <!--END_SECTION:badges-->
