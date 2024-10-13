@@ -5,8 +5,10 @@ Currently developing a taste for programming after seeing what my colleagues at 
 
 Azure Certs
 
+<div style="display: flex; gap: 10px;">
 <img src="./images/Azure%20Fundamentals%20Badge.png" alt="Azure Fundamentals" width="150" height="150">
 <img src="./images/Azure%20Admin%20Associate%20Badge.png" alt="Azure Administrator Associate" width="150" height="150">
+</div>
 
 AWS Certs
 
