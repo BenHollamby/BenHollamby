@@ -4,8 +4,7 @@ will there be badges?
 
 <!--START_SECTION:badges-->
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="545a42db-29ca-43f7-b3b2-96f87ee83eb6" data-share-badge-host="https://www.credly.com"></div>
-<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+![Credly Badge](https://www.credly.com/badges/545a42db-29ca-43f7-b3b2-96f87ee83eb6/public_url)
 
 <!--END_SECTION:badges-->
 
