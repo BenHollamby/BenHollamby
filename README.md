@@ -57,7 +57,7 @@ AWS Cloud Quest
     <img src="./logos/Bicep%20Logo%20Image.svg" alt="Bicep" width="50" height="50">
 </div>
 
-### Languages I know?
+### Languages I "know"
 
 <div style="display: flex; gap: 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="50" height="50">
