@@ -1,12 +1,17 @@
-## Hello there
+## Hello there!
 
-will there be badges?
+Wannabe Cloud/Platform/DevOps Engineer with a passion for operations, automation, and security.
+Currently developing a taste for programming after seeing what my colleagues at Arkahna are doing.
 
-<!--START_SECTION:badges-->
+Azure Certs
+<img src="./images/Azure%20Fundamentals%20Badge.png" alt="Azure Fundamentals" width="150" height="150">
+<img src="./images/Azure%20Admin%20Associate%20Badge.png" alt="Azure Fundamentals" width="150" height="150">
 
+AWS Certs
 <img src="./images/AWS%20Cloud%20Practitioner%20Badge.png" alt="AWS Cloud Practitioner" width="150" height="150">
+<img src="./images/AWS%20Solutions%20Architect%20Badge.png" alt="AWS Solutions Architect Associate" width="150" height="150">
 
-![AWS Cloud Practicioner](./images/AWS%20Cloud%20Practitioner%20Badge.png)
+GitHub Certs
 
 <!--END_SECTION:badges-->
 
