@@ -4,7 +4,7 @@ will there be badges?
 
 <!--START_SECTION:badges-->
 
-![Credly Badge](https://www.credly.com/badges/545a42db-29ca-43f7-b3b2-96f87ee83eb6/public_url)
+![AWS Cloud Practicioner](./images/AWS%20Cloud%20Practitioner%20Badge.png)
 
 <!--END_SECTION:badges-->
 
