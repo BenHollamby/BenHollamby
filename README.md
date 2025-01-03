@@ -1,8 +1,8 @@
 ### Hello there.
 
-Wannabe Cloud/Platform/DevOps Engineer with a passion for operations, automation, and security.
+Cloud Engineer with a passion for operations, automation, and security.
 
-Currently a consultant for Arkahna in the Sigil team. The sigil team focuses on operations, pro-active monitoring, and practical security recommendations for clients.
+Currently a Senior Consultant for Arkahna in the Sigil team. The Sigil team focuses on operations, pro-active monitoring, and practical security recommendations for clients.
 
 Developing a taste for programming after seeing what my colleagues at Arkahna are doing, and currently trying to answer the question, I learned this language... now what?
 
@@ -29,6 +29,7 @@ GitHub
     <img src="./images/Credly%20badge%20admin.png" alt="GitHub Administration" width="150" height="150">
     <img src="./images/Github%20Actions%20Badge.png" alt="GitHub Actions" width="150" height="150">
     <img src="./images/GitHub%20Advanced%20Security%20Badge.png" alt="GitHub Advanced Security" width="150" height="150">
+    <img src="./images/GitHub%Copilot%Badge.png" alt="GitHub Copilot" width="150" height="150">
 </div>
 
 Misc
