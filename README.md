@@ -29,7 +29,7 @@ GitHub
     <img src="./images/Credly%20badge%20admin.png" alt="GitHub Administration" width="150" height="150">
     <img src="./images/Github%20Actions%20Badge.png" alt="GitHub Actions" width="150" height="150">
     <img src="./images/GitHub%20Advanced%20Security%20Badge.png" alt="GitHub Advanced Security" width="150" height="150">
-    <img src="./images/GitHub%Copilot%Badge.png" alt="GitHub Copilot" width="150" height="150">
+    <img src="./images/GitHub%20Copilot%20Badge.png" alt="GitHub Copilot" width="150" height="150">
 </div>
 
 Misc
