@@ -13,6 +13,7 @@ Azure
 <div style="display: flex; gap: 10px;">
     <img src="./images/Azure%20Fundamentals%20Badge.png" alt="Azure Fundamentals" width="150" height="150">
     <img src="./images/Azure%20Admin%20Associate%20Badge.png" alt="Azure Administrator Associate" width="150" height="150">
+    <img src="./images/Azure Virtual Desktop Specialty.png" alt="Azure Virtual Desktop Specialty" width="150" height="150">
 </div>
 
 AWS
